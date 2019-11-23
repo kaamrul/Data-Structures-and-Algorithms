@@ -13,6 +13,7 @@
 	> Merge Sort
 	> Shell Sort
 	> Quick Sort
+	> Heap Sort
 
 ## Stack & Queue
 	> Stack
