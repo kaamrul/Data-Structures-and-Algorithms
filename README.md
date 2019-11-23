@@ -1,41 +1,41 @@
 # Data-Structures-and-Algorithms
 
-## Searching Algorithm
-	> Linear Search
-	> Binary Search
-	> Interpolation Search
-	> Hash Table
+	## Searching Algorithm
+		> Linear Search
+		> Binary Search
+		> Interpolation Search
+		> Hash Table
 
-## Sorting Algorithm
-	> Bubble Sort
-	> Insertion Sort
-	> Selection Sort
-	> Merge Sort
-	> Shell Sort
-	> Quick Sort
-	> Heap Sort
+	## Sorting Algorithm
+		> Bubble Sort
+		> Insertion Sort
+		> Selection Sort
+		> Merge Sort
+		> Shell Sort
+		> Quick Sort
+		> Heap Sort
 
-## Stack & Queue
-	> Stack
-	> Expression Parsing
-	> Queue
+	## Stack & Queue
+		> Stack
+		> Expression Parsing
+		> Queue
 
-## Linked Lists
-	> Doubly Linked List
-	> Circular Linked List
+	## Linked Lists
+		> Doubly Linked List
+		> Circular Linked List
 
-## Recursion
-	> Recursion Basics
-	> Tower of Hanoi
-	> Fibonacci Series
+	## Recursion
+		> Recursion Basics
+		> Tower of Hanoi
+		> Fibonacci Series
 
-## Tree Data Structure
-	> Tree Traversal
-	> Binary Search Tree
-	> AVL Tree
-	> Spanning Tree
-	> Heap
+	## Tree Data Structure
+		> Tree Traversal
+		> Binary Search Tree
+		> AVL Tree
+		> Spanning Tree
+		> Heap
 
-## Graph Data Structure
-	> Depth First Traversal
-	> Breadth First Traversal
+	## Graph Data Structure
+		> Depth First Traversal
+		> Breadth First Traversal
